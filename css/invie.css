@@ -93,6 +93,15 @@ padding: 7px;
   padding-left: 20px;
 
 }
+.footer
+{
+background: #304C81;
+}
+.footer .contenedor{
+  display: block;
+}
+
+
 
 .contenedor-guitarra-b{
   margin-left: 370px;
